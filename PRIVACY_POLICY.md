@@ -194,7 +194,7 @@ Continued use of the App after changes take effect constitutes your acceptance o
 
 ## 14. Governing Law
 
-This Privacy Policy is governed by the laws of the State of [Your State], United States. Any disputes shall be resolved in the courts of [Your County], [Your State].
+This Privacy Policy is governed by the laws of the State of Florida, United States. Any disputes shall be resolved in the courts of the State of Florida.
 
 ---
 

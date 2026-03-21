@@ -143,7 +143,7 @@ Continued use of the App after updated Terms take effect constitutes your accept
 
 ## 15. Governing Law
 
-These Terms are governed by the laws of the State of [Your State], United States, without regard to conflict of law provisions. Any disputes shall be resolved in the courts of [Your County], [Your State].
+These Terms are governed by the laws of the State of Florida, United States, without regard to conflict of law provisions. Any disputes shall be resolved in the courts of the State of Florida.
 
 ---
 
