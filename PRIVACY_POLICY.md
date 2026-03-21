@@ -167,7 +167,51 @@ Personal information is not disclosed to third parties for their direct marketin
 
 ---
 
-## 11. Camera and Photo Library Access
+## 11. EU Residents — GDPR Rights
+
+If you are located in the European Union or European Economic Area, the General Data Protection Regulation (GDPR) applies to the processing of your personal data.
+
+### 11.1 Legal Basis for Processing
+
+| Data | Purpose | Legal Basis |
+|------|---------|-------------|
+| Email address | Account authentication | Performance of a contract |
+| Password (hashed) | Account security | Performance of a contract |
+| Split data (items, people, amounts) | Core app functionality | Performance of a contract |
+| Scan count | Enforcing free tier limits | Legitimate interest |
+| Session tokens | Keeping you logged in | Performance of a contract |
+| Receipt images | AI parsing (not stored) | Performance of a contract |
+
+### 11.2 International Data Transfers
+
+Your data is processed by US-based service providers (Supabase, Anthropic, Vercel, RevenueCat). These transfers outside the EU/EEA are conducted under **Standard Contractual Clauses (SCCs)** as approved by the European Commission, which provide adequate safeguards for your personal data.
+
+### 11.3 Your GDPR Rights
+
+As an EU/EEA resident you have the following rights:
+
+- **Right of Access (Art. 15)** — Request a copy of the personal data held about you.
+- **Right to Rectification (Art. 16)** — Request correction of inaccurate or incomplete data.
+- **Right to Erasure (Art. 17)** — Request deletion of your personal data ("right to be forgotten").
+- **Right to Restriction (Art. 18)** — Request that processing of your data be restricted in certain circumstances.
+- **Right to Portability (Art. 20)** — Request your data in a structured, machine-readable format.
+- **Right to Object (Art. 21)** — Object to processing based on legitimate interest.
+- **Right to Lodge a Complaint** — You have the right to file a complaint with your national data protection authority (DPA) if you believe your data is being processed unlawfully.
+
+### 11.4 How to Exercise Your GDPR Rights
+
+Email: **splitsnap.privacy@gmail.com**
+Subject line: "GDPR Request"
+
+Requests will be responded to within **30 days** as required by GDPR. Identity verification may be required.
+
+### 11.5 Data Retention under GDPR
+
+Personal data is kept only as long as necessary for the purposes described in this policy. When you delete your account, all personal data is permanently deleted within 30 days.
+
+---
+
+## 12. Camera and Photo Library Access
 
 The App requests access to your device's camera and/or photo library solely to capture or select receipt images. No photos are accessed, stored, or uploaded other than the specific image you choose to scan.
 
@@ -175,13 +219,13 @@ You can revoke camera or photo library access at any time in your device Setting
 
 ---
 
-## 12. Children's Privacy
+## 13. Children's Privacy
 
 The App is not directed at children under 13 years of age. Personal information from children under 13 is not knowingly collected. If you are a parent or guardian and believe your child has provided personal information through the App, contact me at splitsnap.privacy@gmail.com and the information will be promptly deleted.
 
 ---
 
-## 13. Changes to This Policy
+## 14. Changes to This Policy
 
 This Privacy Policy may be updated from time to time. When it is:
 
@@ -192,13 +236,13 @@ Continued use of the App after changes take effect constitutes your acceptance o
 
 ---
 
-## 14. Governing Law
+## 15. Governing Law
 
 This Privacy Policy is governed by the laws of the State of Florida, United States. Any disputes shall be resolved in the courts of the State of Florida.
 
 ---
 
-## 15. Contact
+## 16. Contact
 
 For any privacy-related questions, requests, or concerns, contact me directly:
 
