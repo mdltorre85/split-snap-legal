@@ -1,13 +1,13 @@
-# SplitSnap - Legal Documentation
+# SnapSplit - Legal Documentation
 
-This repository contains legal and compliance documentation for the **SplitSnap** mobile application.
+This repository contains legal and compliance documentation for the **SnapSplit** mobile application.
 
 ## Documents
 
 - **[Privacy Policy](PRIVACY_POLICY.md)** — How user data is handled and protected
 - **[Terms of Service](TERMS_OF_SERVICE.md)** — Rules and conditions for using the App
 
-## About SplitSnap
+## About SnapSplit
 
 A receipt splitting app powered by AI. Photograph a restaurant receipt and split the bill between friends in seconds.
 

@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**App name:** SplitSnap
-**Developer:** SplitSnap
+**App name:** SnapSplit
+**Developer:** SnapSplit
 **Last updated:** March 20, 2026
 **Effective date:** March 20, 2026
 
@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-SplitSnap is an independent app ("I", "me", or "my"). I am committed to protecting your privacy. This Privacy Policy explains what personal information is collected, how it is used and shared, and your rights regarding your data when you use the SplitSnap mobile application and web app (collectively, the "App").
+SnapSplit is an independent app ("I", "me", or "my"). I am committed to protecting your privacy. This Privacy Policy explains what personal information is collected, how it is used and shared, and your rights regarding your data when you use the SnapSplit mobile application and web app (collectively, the "App").
 
 By downloading, installing, or using the App, you acknowledge that you have read and agree to this Privacy Policy. If you do not agree, do not use the App.
 
@@ -131,7 +131,7 @@ No method of transmission or storage is 100% secure. In the event of a data brea
 
 ## 9. California Residents — Privacy Rights
 
-Although SplitSnap is an independent app that does not meet the revenue or data volume thresholds that legally require CCPA compliance, I voluntarily extend the following rights to California residents as a matter of good faith:
+Although SnapSplit is an independent app that does not meet the revenue or data volume thresholds that legally require CCPA compliance, I voluntarily extend the following rights to California residents as a matter of good faith:
 
 - **Right to Know** — You may request a summary of the personal information collected about you and why.
 - **Right to Delete** — You may request deletion of your personal information.
@@ -246,7 +246,7 @@ This Privacy Policy is governed by the laws of the State of Florida, United Stat
 
 For any privacy-related questions, requests, or concerns, contact me directly:
 
-**App:** SplitSnap
+**App:** SnapSplit
 **Email:** splitsnap.privacy@gmail.com
 
 I aim to respond to all inquiries within **5 business days**.
