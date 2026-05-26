@@ -2,7 +2,7 @@
 
 **App name:** SnapSplit
 **Developer:** SnapSplit
-**Last updated:** March 20, 2026
+**Last updated:** May 25, 2026
 **Effective date:** March 20, 2026
 
 ---
@@ -25,7 +25,7 @@ SnapSplit is a bill-splitting application that uses AI technology to parse resta
 You must create an account to use the App. You agree to provide accurate and complete information and to keep it up to date.
 
 ### 3.2 Account Security
-You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. Notify us immediately at splitsnap.privacy@gmail.com if you suspect unauthorized access.
+You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account. If you forget your password, you may use the "Forgot password?" option on the login screen to receive a reset link by email. Notify us immediately at splitsnap.privacy@gmail.com if you suspect unauthorized access.
 
 ### 3.3 One Account Per Person
 You may not create multiple accounts or share your account with others.
@@ -126,7 +126,7 @@ You agree to defend, indemnify, and hold harmless SnapSplit from any claims, dam
 
 ## 13. Termination
 
-SnapSplit reserves the right to suspend or terminate your account at any time for violation of these Terms, with or without notice. Upon termination, your right to use the App ceases immediately. You may delete your account at any time from the Settings screen.
+SnapSplit reserves the right to suspend or terminate your account at any time for violation of these Terms, with or without notice. Upon termination, your right to use the App ceases immediately. You may delete your account at any time from the Settings screen. Upon deletion, your account and all associated data are permanently and immediately removed and cannot be recovered.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **App name:** SnapSplit
 **Developer:** SnapSplit
-**Last updated:** March 20, 2026
+**Last updated:** May 25, 2026
 **Effective date:** March 20, 2026
 
 ---
@@ -69,6 +69,7 @@ The App relies on third-party services to function. Each receives only the data 
 |---------|------------------|---------------------|
 | **Supabase** | Email, hashed password, split history | https://supabase.com/privacy |
 | **Anthropic** | Receipt images (for AI parsing only) | https://www.anthropic.com/privacy |
+| **Resend** | Email address (for transactional email delivery only) | https://resend.com/legal/privacy-policy |
 | **Vercel** | Receipt images in transit (API hosting) | https://vercel.com/legal/privacy-policy |
 | **RevenueCat** | Purchase receipt tokens, device platform | https://www.revenuecat.com/privacy |
 | **Apple App Store** | Payment and subscription data (iOS) | https://www.apple.com/legal/privacy |
@@ -112,7 +113,7 @@ No advertising cookies or tracking pixels are used.
 | Session tokens | Until you sign out or the token expires |
 | Scan count | Deleted with your account |
 
-You can delete your account at any time from the Settings screen. Upon deletion, all your data is permanently deleted from the database within 30 days.
+You can delete your account at any time from the Settings screen. Upon deletion, your account and all associated data (split history, scan count, preferences) are permanently and immediately deleted from the database.
 
 ---
 
